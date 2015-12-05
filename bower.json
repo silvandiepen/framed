@@ -7,7 +7,7 @@
 	],
 	"description": "Responsive grid",
 	"main": [
-		"_framed.scss"
+		"src/_framed.scss"
 	],
 	"keywords": [
 		"responsive",
